@@ -1,0 +1,9 @@
+*
+!*/
+!*.md
+!*.sublime-settings
+!*.tmLanguage
+!*.tmTheme
+!.gitignore
+_scratch/*
+*/_scratch/*
