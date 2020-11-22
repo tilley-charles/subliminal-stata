@@ -7,7 +7,7 @@
   - The **Stata-[Dark|Light].tmTheme** files control the color scheme for Stata code.
     - These files are comparable to **.sublime-color-scheme** files.
     - There are two color schemes: dark and light.
-  - The sytnax highlighting will affect scripts with the file extensions: __.do__ and __.ado__.
+  - The sytnax highlighting will affect scripts with the file extensions: **.do** and **.ado**.
 
 ## Integration
   - The files should be placed in the User Package directory.
