@@ -17,9 +17,12 @@
     - Alternately, this can accomplished with a .do or .ado file as the active script in Sublime Text by navigating to:
       - Preferences --> Settings - Syntax Specific
       - Update the `color_scheme` parameter in the right-hand window to point to the correct **.tmTheme** file.
-      ` { `
-      `   "color_scheme": "Packages/User/Stata-Dark.tmTheme" `
-      ` } `
+
+```      
+{ 
+  "color_scheme": "Packages/User/Stata-Dark.tmTheme"
+}
+```
 
 ## Acknowledgements
 The syntax highlighting files build off Stata Enhanced, available through Package Control.
