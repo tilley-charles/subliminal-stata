@@ -5,7 +5,7 @@
   - **Stata.tmLanguage** controls syntax definitions for Stata code.
     - This file format is comparable to a **.sublime-syntax** file.
   - The **Stata-[Dark|Light].tmTheme** files control the color scheme for Stata code.
-    - These files are comparable to **.sublime-color-scheme** files.
+    - This file format is comparable to a **.sublime-color-scheme** file.
     - There are two color schemes: dark and light.
   - The sytnax highlighting will affect scripts with the file extensions: **.do** and **.ado**.
 
