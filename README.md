@@ -7,14 +7,14 @@
   - The **Stata-[Dark|Light].tmTheme** files control the color scheme for Stata code.
     - This file format is comparable to a **.sublime-color-scheme** file.
     - There are two color schemes: dark and light.
-  - The sytnax highlighting will affect scripts with the file extensions: **.do** and **.ado**.
+  - The syntax highlighting will affect scripts with the file extensions: **.do** and **.ado**.
 
 ## Integration
   - The files should be placed in the User Package directory.
     - In Sublime Text 3, this directory may be located here:
       - C:\Users\[NAME]\AppData\Roaming\Sublime Text 3\Packages\User
   - To select the dark or light theme, update **Stata.sublime-settings** to point to the matching **Stata-[Dark|Light].tmTheme** file.
-    - Alternately, this can accomplished with a .do or .ado file as the active script in Sublime Text by navigating to:
+    - Alternately, this can accomplished with a **.do** or **.ado** file as the active script in Sublime Text by navigating to:
       - Preferences --> Settings - Syntax Specific
       - Update the `color_scheme` parameter in the right-hand window to point to the correct **.tmTheme** file.
 
