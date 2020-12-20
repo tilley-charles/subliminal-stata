@@ -120,7 +120,7 @@
 
     <dict>
       <key>match</key>
-      <string>(?&lt;!\()\b(andlist|charlist|constant|distinct|ds_compare|ds_differences|dtalink|kmatch|korder|label_varlist|localizexl|mdesc|miss_viz|mprheader|mprtab|normality|randomid|psmatch2|pstest|sanitize|strstdz|tablist|tabmiss|valtab|xlcolwidth|xlfreeze)\b(?!\()</string>
+      <string>(?&lt;!\()\b(andlist|charlist|constant|distinct|ds_compare|ds_differences|dtalink|kmatch|korder|label_varlist|localizexl|mdesc|miss_viz|mprheader|mprtab|normality|ordersof|randomid|psmatch2|pstest|sanitize|strstdz|tablist|tabmiss|valtab|xlcolwidth|xlfreeze)\b(?!\()</string>
       <key>name</key>
       <string>constant.language.user.stata</string>
     </dict>
