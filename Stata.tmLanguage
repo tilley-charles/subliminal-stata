@@ -113,7 +113,7 @@
 		</dict>
     <dict>
       <key>match</key>
-      <string>\b(numtobase26|st_local|st_numscalar)\b(?=\()</string>
+      <string>\b(direxists|numtobase26|st_local|st_numscalar)\b(?=\()</string>
       <key>name</key>
       <string>keyword.function.mata.stata</string>
     </dict>
